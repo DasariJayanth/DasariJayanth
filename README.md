@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-<hr style="width:50%;text-align:left;margin-left:0">
+<!-- <hr style="width:50%;text-align:left;margin-left:0">
 
 #### Programming Languages :
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C programming](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C programming](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) -->
 
 
 <!-- ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) -->
