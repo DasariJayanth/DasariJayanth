@@ -20,7 +20,7 @@
 
 <!-- ![profile visit](https://komarev.com/ghpvc/?username=DasariJayanth) -->
 
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=DasariJayanth&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&count_private=true&theme=cobalt)
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=DasariJayanth&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&count_private=true&theme=onedark)
 
 </div>
 <hr style="width:50%;text-align:left;margin-left:0">
