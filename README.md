@@ -18,7 +18,7 @@
 ### 👦Stats
 <div align="left">
 
-<!-- ![profile visit](https://komarev.com/ghpvc/?username=saiabhiteja) -->
+<!-- ![profile visit](https://komarev.com/ghpvc/?username=DasariJayanth) -->
 
 ![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=DasariJayanth&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&count_private=true&theme=gotham)
 
@@ -28,9 +28,9 @@
 ### Connect with me:
 <p align="left">
 <br>
-<a href="https://www.instagram.com/jayanthdasari_/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/dasarijayanth/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:dasarijayanth06042002@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a href="https://www.instagram.com/jayanthdasari_/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
 
 </p>
 <hr style="width:50%;text-align:left;margin-left:0">
